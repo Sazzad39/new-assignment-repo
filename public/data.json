@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/7j3mxCd/clean-water.jpg",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052ff26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Clean water for children is a lifeline. It's the key to a healthy, promising future. Without it, they face the risk of deadly diseases and stunted growth. Clean water doesn't just quench their thirst; it paves the way for education, better health, and hope. Every drop is a chance for a brighter tomorrow, where kids can grow, learn, and dream without the burden of waterborne illnesses. Providing clean water to children is not just a necessity; it's a fundamental right that unlocks their potential and transforms lives.",
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/zGg2c7Y/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#ff444a26",
+        "text_button_bg_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 19.99
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/Lkwd8h3/used-cloth.jpg",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79c23f26",
+        "text_button_bg_color": "#79C23F",
+        "description": "A Used Clothing Drive is a heartwarming initiative that collects gently worn clothes to support those in need. It's an act of generosity and sustainability, giving new life to pre-loved garments. These drives often rally communities to come together, donating their surplus clothing to charities or individuals facing financial hardship. It's more than just clothes; it's a symbol of empathy and solidarity. Used Clothing Drives not only provide warmth and comfort but also promote a greener planet by reducing textile waste. They demonstrate the power of collective compassion, making a positive impact on the lives of many.",
+        "price": 44.99
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/ggkGf3M/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#f8714e26",
+        "text_button_bg_color": "#F87147",
+        "description": "Better food for everyone is a vision of nourishment that transcends mere sustenance. It's a commitment to providing access to healthier, more sustainable, and affordable food options for all. This initiative strives to address food inequality, reduce food deserts, and promote nutritious choices. It champions the idea that quality food is a basic human right, not a privilege. By improving food systems, fostering community gardens, and supporting local agriculture, better food for everyone aims to enhance health, reduce environmental impact, and create a more equitable world where everyone can savor the benefits of good nutrition.",
+        "price": 39.99
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/2FYjwV6/feed-the-need.jpg",
+        "title": "Feed the Need",
+        "category": "Food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#f8714e26",
+        "text_button_bg_color": "#F87147",
+        "description": "Feed the Need is a noble mission dedicated to eradicating hunger and food insecurity. It mobilizes resources, volunteers, and communities to provide essential nourishment to those in need. This initiative operates food banks, soup kitchens, and meal programs, ensuring that no one goes to bed hungry. Feed the Need also raises awareness about the critical issue of food scarcity and promotes lasting solutions to this global challenge. By uniting people in the fight against hunger, it embodies the spirit of compassion and solidarity, making a tangible difference in the lives of countless individuals and families.",
+        "price": 54.99
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/whJjKMB/Clothing.png",
+        "title": " Donate Clothes, Transform Lives",
+        "category": "Clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79c23f26",
+        "text_button_bg_color": "#79C23F",
+        "description": "'Donate Clothes, Transform Lives' is a powerful call to action that highlights the profound impact of giving. By donating clothes, you're not just decluttering your closet; you're providing warmth, dignity, and hope to those in need. Your discarded garments can empower someone to face life's challenges with confidence. This initiative encourages people to share their gently used clothing, fostering a more compassionate society. It's a reminder that a simple act of generosity can be a catalyst for positive change, turning threads into transformative tools for a brighter future.",
+        "price": 24.99
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/KzsnwYj/education.jpg",
+        "title": "Educational Empowerment Campaign",
+        "category": "Education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#ff444a26",
+        "text_button_bg_color": "#FF444A",
+        "description": "The Educational Empowerment Campaign is a rallying cry for a brighter, more equitable future. It champions access to quality education as a fundamental right. This campaign strives to break down barriers that hinder learning, advocating for inclusive and innovative approaches to education. It supports underserved communities, providing resources, scholarships, and mentorship programs. By focusing on educational empowerment, this initiative aims to unleash the potential of individuals, foster critical thinking, and pave the way for brighter opportunities. It's a commitment to creating a world where education is a catalyst for personal growth and societal progress.",
+        "price": 59.99
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/BtX2Yjn/healthy-life.jpg",
+        "title": "Healthy Living Products",
+        "category": "Health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052ff26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Healthy Living Products encompass a diverse range of items designed to promote well-being and vitality. From nutritious foods and supplements to fitness equipment and eco-friendly lifestyle choices, these products cater to individuals seeking a healthier, balanced life. They prioritize physical, mental, and environmental health, empowering consumers to make mindful choices. Whether it's organic foods, exercise gear, or sustainable living essentials, Healthy Living Products are a gateway to cultivating healthier habits and a more sustainable future, making wellness accessible and convenient for everyone.",
+        "price": 29.99
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/NVXxxkc/nutrition.jpg",
+        "title": "Nutrition and Fitness Gear",
+        "category": "Health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052ff26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Nutrition and Fitness Gear are essential tools for anyone dedicated to a healthy lifestyle. This category encompasses a wide range of products, including workout equipment, dietary supplements, meal planning tools, and more. It supports individuals in their fitness journey, helping them achieve their goals and maintain overall well-being. Whether it's a set of dumbbells for strength training or a fitness tracker to monitor progress, these items empower users to make informed choices and take control of their health. Nutrition and Fitness Gear play a vital role in promoting active, balanced lives.",
+        "price": 39.99
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/yRYPsQs/global-edu-1.jpg",
+        "title": "Global Education Network",
+        "category": "Education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#ff444a26",
+        "text_button_bg_color": "#FF444A",
+        "description": "The Global Education Network is a worldwide collaborative effort to expand access to quality education for all. It connects educators, institutions, and learners across borders, fostering the exchange of knowledge and ideas. This network leverages technology to bridge gaps in education, offering online courses, resources, and support to underserved communities. It's a testament to the belief that education transcends geographical boundaries, empowering individuals to reach their full potential and drive positive change. The Global Education Network is a powerful force in democratizing education and creating a more equitable and interconnected world.",
+        "price": 34.99
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/wrH2j6D/warmcloth.jpg",
+        "title": "Warmth in Every Thread",
+        "category": "Clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79c23f26",
+        "text_button_bg_color": "#79C23F",
+        "description": "'Warmth in Every Thread' is a heartfelt initiative that recognizes the transformative power of clothing. It emphasizes the importance of providing warm, quality garments to those in need. This campaign not only delivers physical warmth but also kindles a sense of comfort, dignity, and hope. By collecting and distributing winter clothing, it offers relief to vulnerable individuals facing harsh conditions. 'Warmth in Every Thread' embodies the spirit of compassion, demonstrating that a simple act of giving can be a beacon of light, spreading warmth and goodwill throughout communities.",
+        "price": 64.99
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/Ssc5Xjj/sharemeal.jpg",
+        "title": "Share a Meal, Share a Hope",
+        "category": "Food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#f8714e26",
+        "text_button_bg_color": "#F87147",
+        "description": "'Share a Meal, Share a Hope' is a heartwarming initiative that extends a helping hand to those in need through the simple act of sharing a meal. It recognizes that a warm and nourishing meal not only satisfies hunger but also brings hope and comfort. This campaign encourages communities to come together, donate food, and support local food banks or shelters. It's a powerful reminder that compassion and solidarity can make a significant impact on the lives of those experiencing food insecurity, spreading hope and kindness one meal at a time.",
+        "price": 29.99
+    }
+]
